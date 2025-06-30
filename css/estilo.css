@@ -1,4 +1,7 @@
 h1{ 
-     color: yellow
-     font-family:lch(from color lightness chrome hue alpha)
+     color: rgb(255, 0, 89)
+     font-family;lch (from color lightness chrome hue alpha)
+     text-decoration: underline
+     padding: 60px
+     
 }
