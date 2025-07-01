@@ -1,7 +1,43 @@
 h1{ 
-     color: rgb(255, 0, 89)
-     font-family;lch (from color lightness chrome hue alpha)
-     text-decoration: underline
-     padding: 60px
-     
+     color: rgb(255, 255, 255);
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     padding: 150px;
+     padding-bottom: 70px;
+     text-align: center;  
+}
+header{
+     background-color: #e76585e0;
+}
+h2{
+     font-size: 20px;
+     text-align: center;
+     color: white;
+}
+img {
+     width: 100%;
+  background-color: #a314374b;
+  border-radius: 10px;
+}
+
+body{
+     background-color: rgb(255, 249, 235);
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+     text-align: center;
+     color:white;
+     padding-bottom: 50px;
+
+}
+
+section{
+     width: 350px;
+     background-color:  #e76585e0;
+     margin: 20px auto;
+     padding: 50px;
+
+}
+footer{
+     background-color: rgb(255, 253, 240);
 }
